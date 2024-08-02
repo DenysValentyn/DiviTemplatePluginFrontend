@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --btn-text-btn-14: "Inter";
+  --font-open-sans: "Inter";
+  --subheading-subheading-18: "Inter";
+
+  /* font sizes */
+  --btn-text-btn-14-size: 14px;
+  --font-size-smi: 13px;
+  --subheading-subheading-18-size: 18px;
+  --subheading-subheading-14-size: 16px;
+  --headings-h4-size: 30px;
+  --font-size-3xs: 10px;
+  --subheading-subheading-20-size: 20px;
+  --headings-h2-size: 42px;
+
+  /* Colors */
+  --light-80: #f4f4f4;
+  --color-whitesmoke-100: #f1f1f1;
+  --background-card-03: #eee;
+  --stroke-stroke-100: #ddd;
+  --color-gainsboro-100: rgba(221, 221, 221, 0);
+  --text-text-03: #454545;
+  --color-darkslategray-100: #444;
+  --text-text-02: #353535;
+  --color-darkslategray-300: #333;
+  --color-darkslategray-200: rgba(69, 69, 69, 0.6);
+  --background-base: #fff;
+  --color-blueviolet-100: #a63dff;
+  --primary-pr-100: #8017e6;
+  --text-subheading: #151515;
+  --text-btn-dark: #555;
+  --text-heading: #000;
+
+  /* Gaps */
+  --gap-41xl: 60px;
+  --gap-11xl: 30px;
+  --gap-5xs: 8px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-8xs: 5px;
+  --gap-6xl: 25px;
+  --gap-3xs: 10px;
+  --gap-mini: 15px;
+
+  /* Paddings */
+  --padding-41xl: 60px;
+  --padding-11xl: 30px;
+  --padding-39xl: 58px;
+  --padding-5xs: 8px;
+  --padding-6xs: 7px;
+  --padding-8xs: 5px;
+  --padding-3xs:6px;
+  --padding-2xs: 11px;
+  --padding-xs: 12px;
+  --padding-xl: 20px;
+  --padding-lgi: 19px;
+  --padding-4xs-5: 8.5px;
+  --padding-4xs-6: 8.6px;
+  --padding-9xs: 4px;
+  --padding-lg: 18px;
+  --padding-sm: 14px;
+  --padding-49xl: 68px;
+  --padding-mini: 15px;
+  --padding-11xs: 2px;
+  --padding-10xs: 3px;
+  --padding-4xl: 23px;
+  --padding-6xl: 25px;
+  --padding-xs-6: 11.6px;
+  --padding-xs-5: 11.5px;
+
+  /* Border radiuses */
+  --br-13xl: 32px;
+  --br-31xl: 50px;
+  --br-xl: 20px;
+  --br-34xl-3: 53.3px;
+  --br-481xl: 500px;
+  --br-3xs: 10px;
+  --br-45xl-3: 64.3px;
+}

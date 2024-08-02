@@ -1,0 +1,34 @@
+<svg width="138" height="138" viewBox="0 0 138 138" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_7627_842" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="32" y="9" width="83" height="87">
+<path d="M82.309 9.36719L114.164 36.0969L64.7261 95.0149L32.8709 68.2852L82.309 9.36719Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_7627_842)">
+<mask id="mask1_7627_842" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="24" y="33" width="90" height="72">
+<path d="M25.7685 33.6973L113.785 35.8687L112.099 104.296L24.0801 102.125L25.7685 33.6973Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_7627_842)">
+<mask id="mask2_7627_842" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="24" y="33" width="90" height="72">
+<path d="M25.7685 33.6973L113.785 35.8687L112.099 104.296L24.0801 102.125L25.7685 33.6973Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_7627_842)">
+<path d="M33.1073 68.1533L46.3391 68.4793L57.0816 55.5606L43.8507 55.2335L33.1073 68.1533ZM100.656 35.5431L72.1218 69.1153L85.3536 69.4412L113.888 35.869L100.656 35.5431ZM73.9322 43.4961L52.6156 68.6342L65.8454 68.9604L87.1631 43.8232L73.9322 43.4961Z" fill="white"/>
+</g>
+</g>
+</g>
+<mask id="mask3_7627_842" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="23" y="42" width="82" height="87">
+<path d="M73.1381 42.9854L104.993 69.715L55.5552 128.633L23.7 101.903L73.1381 42.9854Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_7627_842)">
+<mask id="mask4_7627_842" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="23" y="33" width="91" height="72">
+<path d="M25.6644 33.6098L113.681 35.7813L111.994 104.209L23.976 102.037L25.6644 33.6098Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_7627_842)">
+<mask id="mask5_7627_842" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="23" y="33" width="91" height="72">
+<path d="M25.6644 33.6098L113.681 35.7813L111.994 104.209L23.976 102.037L25.6644 33.6098Z" fill="white"/>
+</mask>
+<g mask="url(#mask5_7627_842)">
+<path d="M104.757 69.8356L91.5251 69.5097L80.7816 82.4295L94.0135 82.7555L104.757 69.8356ZM37.2068 102.445L65.7413 68.8728L52.5105 68.5478L23.9761 102.12L37.2068 102.445ZM63.932 94.4929L85.2486 69.3548L72.0177 69.0277L50.7001 94.1669L63.932 94.4929Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Satoshi";
+  src: url("fonts/Satoshi-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+#adminmenu .wp-menu-image img{
+    padding: 0px;
+}
+:root {
+  /* fonts */
+  --para-para-14: "Inter";
+  --subheading-subheading-20: "Inter";
+
+  /* font sizes */
+  --para-para-14-size: 14px;
+  --font-size-3xs: 10px;
+  --subheading-subheading-20-size: 20px;
+  --para-para-16-size: 16px;
+  --headings-h2-size: 42px;
+
+  /* Colors */
+  --light-80: #f4f4f4;
+  --background-card-03: #eee;
+  --stroke-stroke-100: #ddd;
+  --text-text-03: #454545;
+  --color-darkslategray-100: #444;
+  --text-text-02: #353535;
+  --color-darkslategray-200: rgba(69, 69, 69, 0.6);
+  --background-base: #fff;
+  --primary-pr-100: #8017e6;
+  --text-heading: #000;
+  --color-dimgray: #555;
+	
+  /* Gradient Colors*/
+  --gradient-btn-color : linear-gradient(106deg, rgba(128, 23, 230, 1)  0%, rgba(74, 77, 255, 1)  100%);
+
+
+  /* Gaps */
+  --gap-11xl: 30px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-mini: 15px;
+  --gap-3xs: 10px;
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-11xl: 30px;
+  --padding-xl: 20px;
+  --padding-4xl: 23px;
+  --padding-6xl: 25px;
+  --padding-10xs: 3px;
+  --padding-6xs: 7px;
+  --padding-xs-6: 11.6px;
+  --padding-2xs: 11px;
+  --padding-xs-5: 11.5px;
+  --padding-mini: 15px;
+  --padding-3xs: 6px;
+  --padding-11xs: 2px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-31xl: 50px;
+  --br-45xl-3: 64.3px;
+  --br-3xs: 10px;
+}
